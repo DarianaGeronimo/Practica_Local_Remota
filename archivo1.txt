@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola soy dariana en remoto y local
+=======
+Hola Soy Dariana 
+>>>>>>> cc050bcfadc0ed76053b7594a1b16566dd742884

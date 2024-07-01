@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola sot dariana
+=======
+Hola practica remota y local 
+>>>>>>> cc050bcfadc0ed76053b7594a1b16566dd742884
